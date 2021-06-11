@@ -1,0 +1,52 @@
+Assignment 5 Rubric
+Criteria	Ratings	Pts
+Project 5a
+20 to >19 pts
+Full Marks
+Meets Criterion
+19 to >0 pts
+Partial Marks
+Partly meets criterion
+0 pts
+No Marks
+20 / 20 pts
+Project 5b
+25 to >24 pts
+Full Marks
+Meets Criterion
+24 to >0 pts
+Partial Marks
+Partly meets criterion
+0 pts
+No Marks
+25 / 25 pts
+Project 5c
+25 to >24 pts
+Full Marks
+Meets Criterion
+24 to >0 pts
+Partial Marks
+Partly meets criterion
+0 pts
+No Marks
+Comments
+-2: Output does not match for a few gradescope tests. The testing is provided on GS if you would like to use it to investigate this.
+23 / 25 pts
+Project 5d
+30 to >29 pts
+Full Marks
+Meets Criterion
+29 to >0 pts
+Partial Marks
+Partly meets criterion
+0 pts
+No Marks
+Comments
+-3: The way you try to get the species on line 81 does not work and causes an error, and line 74 also gives an error in pycharm in a similar manner. The failed Gradescope tests all seemed to fail for the same reason. I'd look into how to retrieve that information given the type of data collection you are using.
+27 / 30 pts
+Deductions
+0 pts
+Full Marks
+0 pts
+No Marks
+-- / 0 pts
